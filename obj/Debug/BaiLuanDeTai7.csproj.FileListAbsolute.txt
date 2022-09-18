@@ -1,0 +1,65 @@
+C:\source\repos\BaiLuanDeTai7\bin\Debug\BaiLuanDeTai7.exe.config
+C:\source\repos\BaiLuanDeTai7\bin\Debug\BaiLuanDeTai7.exe
+C:\source\repos\BaiLuanDeTai7\bin\Debug\BaiLuanDeTai7.pdb
+C:\source\repos\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.csproj.AssemblyReference.cache
+C:\source\repos\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.csproj.SuggestedBindingRedirects.cache
+C:\source\repos\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.Properties.Resources.resources
+C:\source\repos\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.csproj.GenerateResource.cache
+C:\source\repos\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.csproj.CoreCompileInputs.cache
+C:\source\repos\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.exe
+C:\source\repos\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.pdb
+C:\source\repos\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.Login.resources
+C:\source\repos\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.frmNhanVien.resources
+C:\Users\MSII\Desktop\BaiLuanDeTai7\bin\Debug\BaiLuanDeTai7.exe.config
+C:\Users\MSII\Desktop\BaiLuanDeTai7\bin\Debug\BaiLuanDeTai7.exe
+C:\Users\MSII\Desktop\BaiLuanDeTai7\bin\Debug\BaiLuanDeTai7.pdb
+C:\Users\MSII\Desktop\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.csprojAssemblyReference.cache
+C:\Users\MSII\Desktop\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.Login.resources
+C:\Users\MSII\Desktop\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.frmNhanVien.resources
+C:\Users\MSII\Desktop\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.Properties.Resources.resources
+C:\Users\MSII\Desktop\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.frmQuanLy.resources
+C:\Users\MSII\Desktop\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.csproj.GenerateResource.cache
+C:\Users\MSII\Desktop\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.csproj.CoreCompileInputs.cache
+C:\Users\MSII\Desktop\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.exe
+C:\Users\MSII\Desktop\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.pdb
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v2.1\bin\Debug\BaiLuanDeTai7.exe.config
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v2.1\bin\Debug\BaiLuanDeTai7.exe
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v2.1\bin\Debug\BaiLuanDeTai7.pdb
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v2.1\obj\Debug\BaiLuanDeTai7.csproj.AssemblyReference.cache
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v2.1\obj\Debug\BaiLuanDeTai7.csproj.SuggestedBindingRedirects.cache
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v2.1\obj\Debug\BaiLuanDeTai7.Login.resources
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v2.1\obj\Debug\BaiLuanDeTai7.frmNhanVien.resources
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v2.1\obj\Debug\BaiLuanDeTai7.Properties.Resources.resources
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v2.1\obj\Debug\BaiLuanDeTai7.frmQuanLy.resources
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v2.1\obj\Debug\BaiLuanDeTai7.csproj.GenerateResource.cache
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v2.1\obj\Debug\BaiLuanDeTai7.csproj.CoreCompileInputs.cache
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v2.1\obj\Debug\BaiLuanDeTai7.exe
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v2.1\obj\Debug\BaiLuanDeTai7.pdb
+C:\source\repos\BaiLuanDeTai7\bin\Debug\MaterialSkin.dll
+C:\source\repos\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.csproj.CopyComplete
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v5.1\bin\Debug\BaiLuanDeTai7.exe.config
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v5.1\bin\Debug\BaiLuanDeTai7.exe
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v5.1\bin\Debug\BaiLuanDeTai7.pdb
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v5.1\obj\Debug\BaiLuanDeTai7.csproj.AssemblyReference.cache
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v5.1\obj\Debug\BaiLuanDeTai7.csproj.SuggestedBindingRedirects.cache
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v5.1\obj\Debug\BaiLuanDeTai7.Login.resources
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v5.1\obj\Debug\BaiLuanDeTai7.frmNhanVien.resources
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v5.1\obj\Debug\BaiLuanDeTai7.Properties.Resources.resources
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v5.1\obj\Debug\BaiLuanDeTai7.csproj.GenerateResource.cache
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v5.1\obj\Debug\BaiLuanDeTai7.csproj.CoreCompileInputs.cache
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v5.1\obj\Debug\BaiLuanDeTai7.csproj.CopyComplete
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v5.1\obj\Debug\BaiLuanDeTai7.exe
+C:\Users\leduy\OneDrive\Tài liệu\Visual Studio 2022\BaiLuanDeTai7 version\BaiLuanDeTai7v5.1\obj\Debug\BaiLuanDeTai7.pdb
+C:\Users\leduy\OneDrive\Tài liệu\TỰ HỌC CODE\Học viết code\C#\Windows Forms\BaiLuanDeTai7\bin\Debug\BaiLuanDeTai7.exe.config
+C:\Users\leduy\OneDrive\Tài liệu\TỰ HỌC CODE\Học viết code\C#\Windows Forms\BaiLuanDeTai7\bin\Debug\BaiLuanDeTai7.exe
+C:\Users\leduy\OneDrive\Tài liệu\TỰ HỌC CODE\Học viết code\C#\Windows Forms\BaiLuanDeTai7\bin\Debug\BaiLuanDeTai7.pdb
+C:\Users\leduy\OneDrive\Tài liệu\TỰ HỌC CODE\Học viết code\C#\Windows Forms\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.csproj.AssemblyReference.cache
+C:\Users\leduy\OneDrive\Tài liệu\TỰ HỌC CODE\Học viết code\C#\Windows Forms\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.csproj.SuggestedBindingRedirects.cache
+C:\Users\leduy\OneDrive\Tài liệu\TỰ HỌC CODE\Học viết code\C#\Windows Forms\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.Login.resources
+C:\Users\leduy\OneDrive\Tài liệu\TỰ HỌC CODE\Học viết code\C#\Windows Forms\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.frmNhanVien.resources
+C:\Users\leduy\OneDrive\Tài liệu\TỰ HỌC CODE\Học viết code\C#\Windows Forms\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.Properties.Resources.resources
+C:\Users\leduy\OneDrive\Tài liệu\TỰ HỌC CODE\Học viết code\C#\Windows Forms\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.csproj.GenerateResource.cache
+C:\Users\leduy\OneDrive\Tài liệu\TỰ HỌC CODE\Học viết code\C#\Windows Forms\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.csproj.CoreCompileInputs.cache
+C:\Users\leduy\OneDrive\Tài liệu\TỰ HỌC CODE\Học viết code\C#\Windows Forms\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.csproj.CopyComplete
+C:\Users\leduy\OneDrive\Tài liệu\TỰ HỌC CODE\Học viết code\C#\Windows Forms\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.exe
+C:\Users\leduy\OneDrive\Tài liệu\TỰ HỌC CODE\Học viết code\C#\Windows Forms\BaiLuanDeTai7\obj\Debug\BaiLuanDeTai7.pdb

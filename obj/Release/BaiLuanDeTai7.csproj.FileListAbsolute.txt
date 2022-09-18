@@ -1,0 +1,13 @@
+C:\source\repos\BaiLuanDeTai7\bin\Release\BaiLuanDeTai7.exe.config
+C:\source\repos\BaiLuanDeTai7\bin\Release\BaiLuanDeTai7.exe
+C:\source\repos\BaiLuanDeTai7\bin\Release\BaiLuanDeTai7.pdb
+C:\source\repos\BaiLuanDeTai7\obj\Release\BaiLuanDeTai7.csproj.AssemblyReference.cache
+C:\source\repos\BaiLuanDeTai7\obj\Release\BaiLuanDeTai7.csproj.SuggestedBindingRedirects.cache
+C:\source\repos\BaiLuanDeTai7\obj\Release\BaiLuanDeTai7.Login.resources
+C:\source\repos\BaiLuanDeTai7\obj\Release\BaiLuanDeTai7.frmNhanVien.resources
+C:\source\repos\BaiLuanDeTai7\obj\Release\BaiLuanDeTai7.Properties.Resources.resources
+C:\source\repos\BaiLuanDeTai7\obj\Release\BaiLuanDeTai7.frmQuanLy.resources
+C:\source\repos\BaiLuanDeTai7\obj\Release\BaiLuanDeTai7.csproj.GenerateResource.cache
+C:\source\repos\BaiLuanDeTai7\obj\Release\BaiLuanDeTai7.csproj.CoreCompileInputs.cache
+C:\source\repos\BaiLuanDeTai7\obj\Release\BaiLuanDeTai7.exe
+C:\source\repos\BaiLuanDeTai7\obj\Release\BaiLuanDeTai7.pdb
