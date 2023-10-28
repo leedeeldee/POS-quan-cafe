@@ -1,2 +1,2 @@
 # POS-quan-cafe
-POS quán cafe (đề thi của UEF)
+Point of sale dùng cho các quán cafe được xây dựng trên C#
